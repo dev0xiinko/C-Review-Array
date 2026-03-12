@@ -1,0 +1,14 @@
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/bin/Debug/net8.0/Arrays
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/iinko/Desktop/Review/csharp-review/fundamentals/Arrays/obj/Debug/net8.0/ref/Arrays.dll
